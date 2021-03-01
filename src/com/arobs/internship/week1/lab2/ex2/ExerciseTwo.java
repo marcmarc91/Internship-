@@ -1,4 +1,4 @@
-package com.arobs.internship.week1.lab1.ex2;
+package com.arobs.internship.week1.lab2.ex2;
 
 import java.util.Scanner;
 

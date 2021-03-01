@@ -1,4 +1,4 @@
-package com.arobs.internship.week1.lab1.ex5;
+package com.arobs.internship.week1.lab2.ex5;
 
 import java.util.Arrays;
 import java.util.Random;

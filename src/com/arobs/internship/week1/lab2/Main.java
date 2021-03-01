@@ -1,12 +1,12 @@
-package com.arobs.internship.week1.lab1;
+package com.arobs.internship.week1.lab2;
 
-import com.arobs.internship.week1.lab1.ex1.ExerciseOne;
-import com.arobs.internship.week1.lab1.ex2.ExerciseTwo;
-import com.arobs.internship.week1.lab1.ex3.ExerciseThree;
-import com.arobs.internship.week1.lab1.ex4.ExerciseFour;
-import com.arobs.internship.week1.lab1.ex5.ExerciseFive;
-import com.arobs.internship.week1.lab1.ex6.ExerciseSix;
-import com.arobs.internship.week1.lab1.ex7.ExerciseSeven;
+import com.arobs.internship.week1.lab2.ex1.ExerciseOne;
+import com.arobs.internship.week1.lab2.ex2.ExerciseTwo;
+import com.arobs.internship.week1.lab2.ex3.ExerciseThree;
+import com.arobs.internship.week1.lab2.ex4.ExerciseFour;
+import com.arobs.internship.week1.lab2.ex5.ExerciseFive;
+import com.arobs.internship.week1.lab2.ex6.ExerciseSix;
+import com.arobs.internship.week1.lab2.ex7.ExerciseSeven;
 
 import java.util.Scanner;
 

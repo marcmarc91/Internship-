@@ -1,4 +1,4 @@
-package com.arobs.internship.week1.lab1.ex7;
+package com.arobs.internship.week1.lab2.ex7;
 
 import java.util.Random;
 import java.util.Scanner;

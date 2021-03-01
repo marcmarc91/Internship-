@@ -1,4 +1,4 @@
-package com.arobs.internship.week1.lab1.ex3;
+package com.arobs.internship.week1.lab2.ex3;
 
 import java.util.ArrayList;
 import java.util.List;
